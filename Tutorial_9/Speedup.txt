@@ -1,0 +1,8 @@
+Solver, Number of Cells, Timestep (s), No. Steps, Time to run (s)
+CPU, 100x100, 0.020, 400000, 20.299
+CPU, 200x200, 0.010, 800000, 222.688
+GPU, 100x100, 0.020, 400000, 4.380
+GPU, 200x200, 0.010, 800000, 17.836
+
+Speedup (CPU vs GPU) for 100x100 cells: 4.63
+Speedup (CPU vs GPU) for 200x200 cells: 12.49
